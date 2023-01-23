@@ -1,0 +1,51 @@
+body{
+    font-family: 'Lobster', cursive
+}
+h1{
+    line-height: 1.5;
+    padding: 10px;
+    font-weight: bold;
+    
+}
+p{
+    color: gray;
+    line-height: 1.5;
+    padding: 10px;
+}
+#perfume{
+    padding: 3% 15%  ;
+}
+.h{
+    color: #258E4A;
+}
+.perfume-img{
+    width: 80%;
+    height: 80%;
+    text-align: center;
+}
+.row{
+    margin: 0;
+}
+.new-price {
+    color: #258E4A;
+    font-size: 3rem;
+  }
+  
+  .old-price {
+    margin: 2rem;
+    text-decoration: line-through;
+  }
+  
+.btn{
+    background-color: #258E4A;
+    color: #ffff;
+    width: 100%;
+}
+.column{
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+#footer{
+    padding: 3% 15% 7%;
+    text-align: center;
+}
